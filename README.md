@@ -2,6 +2,7 @@
 Calculate your distance from a thunder light on GAMEBUINO
 
 Functions :
+
 1 - see a lighting = press A
 
 2 - hear the sound = press B
