@@ -1,7 +1,6 @@
 # Gamebuino-Thunderbolt_Calc
 Calculate your distance from a thunder light on GAMEBUINO
 
-
 Functions :
 1 - see a lighting = press A
 2 - hear the sound = press B
@@ -10,5 +9,4 @@ Functions :
 5 - deplacement of the lightning is indicated : "approaching" or "receiding"
 
 ![](https://github.com/Awot83/Gamebuino-Thunderbolt_Calc/blob/master/thunderbolt1b.gif?raw=true)
-- i made an Excel tool if you want to add some japanese word to the code.
 ![](https://github.com/Awot83/Gamebuino-Thunderbolt_Calc/blob/master/thunderbolt2b.gif?raw=true)
